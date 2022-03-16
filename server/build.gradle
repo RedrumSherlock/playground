@@ -1,0 +1,6 @@
+dependencies {
+	implementation project(":util")
+	implementation 'com.google.apis:google-api-services-iam:v1-rev20201112-1.31.0'
+	implementation 'com.google.auth:google-auth-library-oauth2-http:0.23.0'
+}
+
